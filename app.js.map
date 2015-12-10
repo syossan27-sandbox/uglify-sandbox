@@ -1,0 +1,1 @@
+{"version":3,"sources":["./app.js"],"names":["sum","array","result","i","Array","console","log"],"mappings":"AAAA,QAASA,KAAIC,OACX,GAAIC,QAAS,CACb,KAAI,GAAIC,KAAKF,OACXC,QAAUD,MAAME,EAElB,OAAOD,QAGT,GAAID,OAAQ,GAAIG,OAAM,EAAE,EAAE,EAAE,EAAE,EAC9BC,SAAQC,IAAI,UAAWN,IAAIC","file":"./app.min.js"}
